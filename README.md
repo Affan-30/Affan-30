@@ -1,11 +1,6 @@
 # 👋 Hi, I'm Affan!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&width=435&lines=Aspiring+Student;Java+Developer;AI+and+Web+Tech+Learner;)](https://git.io/typing-svg)
-
-
-🎓 **Computer Science Student** | 🌱 Aspiring Java Developer | 🎨 Creative Designer
-
-![Profile views](https://komarev.com/ghpvc/?username=Affan-30&color=blue)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&width=435&lines=Computer=Science+Student;Aspiring+Java+Developer;AI+and+Web+Tech+Learner;Creative+Designer)](https://git.io/typing-svg)
 
 ---
 
