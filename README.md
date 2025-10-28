@@ -5,6 +5,8 @@
 
 🎓 **Computer Science Student** | 🌱 Aspiring Java Developer | 🎨 Creative Designer
 
+![Profile views](https://komarev.com/ghpvc/?username=Affan-30&color=blue)
+
 ---
 
 ## 🚀 About Me
