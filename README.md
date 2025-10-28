@@ -1,5 +1,8 @@
 # 👋 Hi, I'm Affan!
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&width=435&lines=Hello+I'm+Affan!;Java+Developer;AI+and+Web+Tech+Learner)](https://git.io/typing-svg)
+
+
 🎓 **Computer Science Student** | 🌱 Aspiring Java Developer | 🎨 Creative Designer
 
 ---
