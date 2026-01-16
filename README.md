@@ -1,55 +1,69 @@
-# 👋 Hi, I'm Affan!
+# Affan Shaikh
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&width=435&lines=Computer+Science+Student;Aspiring+Java+Developer;AI+and+Web+Tech+Learner;Creative+Designer)](https://git.io/typing-svg)
-
----
-
-## 🚀 About Me
-
-- 👨‍💻 I’m passionate about backend development with Java & Spring Boot.
-- 🎯 Currently pursuing my degree in Computer Science.
-- 🏆 Certified in Java Foundation by Infosys Springboard.
-- 💡 I love blending technology with creativity—whether it’s building robust backends, designing engaging frontends, or crafting eye-catching posters.
+> Computer Science • Backend Engineering • Java & Spring Boot
 
 ---
 
-## 🛠️ Tech Stack
+### Profile
 
-- **Languages:** Java
-- **Frameworks:** Spring Boot, React.js
-- **Creative:** Frontend development, poster design
-
----
-
-## 📌 Featured Projects
-
-- [Research Assistant : Chrome Extension](https://github.com/Affan-30/Research-Assistant) — A smart AI tool to aid research workflows.
-- [Todo App](https://github.com/Affan-30/todo) — Simple and effective task management with engaging & creative looks.
+I build backend systems that are **clean, scalable, and intentional**.  
+Focused on **architecture over hype**, **clarity over clutter**
 
 ---
 
-## 🌟 Interests
+### Core Expertise
 
-- Creative coding & design
-- Developing impactful solutions
-- Exploring new technologies
-
----
-
-## 🤝 Open to Collaborate!
-
-I'm eager to join exciting projects, Internships, and open-source initiatives.
-If you’re looking for a motivated Java developer with a creative edge, let’s connect!
+- **Java Backend Development**
+- **Spring Boot & RESTful APIs**
+- **Database-driven Applications**
+- **Frontend Integration (React.js)**
+- **Design-focused UI Thinking**
 
 ---
 
-## 📫 Connect with Me
+### Selected Work
 
-- [LinkedIn](https://www.linkedin.com/in/affan3006)
+**Research Assistant — Chrome Extension**  
+AI-powered tool designed to streamline research workflows.  
+`JavaScript • AI Integration • Productivity`
+
+**Todo Application**  
+Minimal yet expressive task manager with strong UX focus.  
+`React • Clean UI • Practical Design`
 
 ---
 
-## ⚡ Fun Facts
+### Philosophy
 
-- I enjoy making fancy posters and experimenting with creative frontends.
-- Always up for a tech collaboration with the similar minds!
+- Code should be **readable before it is clever**
+- Systems should be **scalable by design**
+- Simplicity is the highest form of sophistication
+
+---
+
+### Credentials
+
+- **Java Foundation Certification** — Infosys Springboard
+- Pursuing **B.Tech in Computer Science**
+
+---
+
+### Collaboration
+
+Open to:
+- Backend-focused roles
+- Internships
+- Open-source contributions
+- High-impact product teams
+
+If the work is meaningful, I’m interested.
+
+---
+
+### Contact
+
+- LinkedIn → https://www.linkedin.com/in/affan3006
+
+---
+
+_Quiet execution. Visible results._
