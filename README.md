@@ -1,7 +1,6 @@
 # Affan Shaikh
 
-> Computer Science • Backend Engineering • Java & Spring Boot
-
+Backend Engineer • Java • Spring Boot
 ---
 
 ### Profile
