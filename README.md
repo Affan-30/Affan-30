@@ -35,15 +35,15 @@ Currently deepening my backend fundamentals (DSA, OOP, DBMS, OS, Networks) while
 Full-stack production and expense management system for a real business. JWT auth with bcrypt-hashed passwords, backend-computed financial totals (frontend is never trusted), Daily/Date-Range/Monthly reports with Recharts, PDF/image export, and correct IST (Asia/Kolkata) business-date handling for late-night entries.
 `Spring Boot/Node.js · React.js · MySQL/MongoDB · Recharts`
 
-**PixelStream — AI-Powered Video Sharing Platform**
+**[PixelStream — AI-Powered Video Sharing Platform](https://github.com/Affan-30/PixelStream)**
 YouTube-style video hosting and social platform with JWT authentication, bcrypt security, and protected routes. Scalable MongoDB schemas via Mongoose for uploads, likes, comments, subscriptions, and watch history. Includes an AI "Ask Anything" feature that answers questions using a video's own transcript as context.
 `Node.js · Express.js · MongoDB · React.js`
 
-**CivicPulse Hub — Smart City Feedback & Redressal System**
+**[CivicPulse Hub — Smart City Feedback & Redressal System](https://github.com/Affan-30/CivicPulse-Hub)**
 Grievance redressal platform with role-based authentication (Spring Security + JWT) for Citizens, Admins, and Officers. Complaint resolution workflow with deadline alerts, mandatory proof-image uploads, automated email notifications, and a post-resolution feedback loop.
 `Spring Boot · React.js · MySQL`
 
-**Research Assistant — AI Chrome Extension**
+**[Research Assistant — AI Chrome Extension](https://github.com/Affan-30/Research-Assistant)**
 Chrome extension integrating the Gemini API to summarize and simplify selected text for faster research and note-taking, with a smart side-panel UI and local-storage-based note management.
 `Chrome Extension · Spring Boot · Gemini API`
 
