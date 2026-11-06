@@ -15,6 +15,8 @@ Final-year Computer Science undergraduate (CGPA 9.22) who builds **clean, scalab
 
 Currently deepening my backend fundamentals (DSA, OOP, DBMS, OS, Networks) while shipping full-stack projects end to end.
 
+View my work : <a href="https://affan-30.github.io/portfolio/">affan-30.github.io/portfolio</a>
+
 ---
 
 ###  Core Expertise
@@ -60,6 +62,8 @@ Chrome extension integrating the Gemini API to summarize and simplify selected t
 - Java Foundation Certification — Infosys Springboard
 - Programming with Generative AI — NPTEL, IISc Bangalore
 - Soft Skill Development — NPTEL, IIT Kharagpur
+- Programming with Generativ AI — NPTEL, IISc Banglore
+- Research Methodology — NPTEL, IIT Madras
 
 ---
 
